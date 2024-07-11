@@ -15,21 +15,21 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color:                    #6FA8DD;
+  --cd-primary-color:                    #30375C;
   --cd-primary-text-color:               #fff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color:                  #3D85C5;
+  --cd-secondary-color:                  #292F53;
   --cd-secondary-text-color:             #fff;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            #9fc5e9;
-  --cd-content-background-color:         #BCDDFD;
-  --cd-faded-background-color:           #9fc5e9;
+  --cd-body-background-color:            #3A426E;
+  --cd-content-background-color:         #444D7E;
+  --cd-faded-background-color:           #3A426E;
 
   /* Background Extras */
   --cd-body-background-image:             url();
@@ -37,7 +37,7 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color:                  #073762;
+  --cd-body-text-color:                  #1E2545;
   --cd-faded-text-color:                 #0b5394;
 
   /* ============================================================= */
@@ -51,7 +51,7 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color:          #073762;
+  --cd-navbar-background-color:          #1E2545;
   --cd-navbar-brand-color:               var(--cd-primary-color);
   --cd-navbar-brand-color-hover:         var(--cd-secondary-color);
   --cd-navbar-text-color:                var(--cd-content-background-color);
@@ -643,3 +643,4 @@ p:last-child {
         font-size: 5rem;
     }
 }
+
