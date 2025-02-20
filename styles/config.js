@@ -124,6 +124,21 @@ let options = {
     
     },
 
+   /* Traits Vaui
+    /* --------------------------------------------------------------- */
+    traits: {
+    
+        sheetPage: sheetPages.traits,
+
+        itemAmount: 24,
+        itemOrder: "asc",
+
+        filterColumn: 'Rarity2',
+        searchFilterParams: ['Trait2'],
+        fauxFolderColumn: 'Type2',
+    
+    },
+
 
     /* Staff
     /* --------------------------------------------------------------- */
