@@ -19,7 +19,7 @@ let sheetPages = {
     prompts: "prompts",
     faq: "faq",
     staff: "mods",
-    vauitraits: "traits2",
+    vaui: "traits2",
 
 }
 
@@ -128,7 +128,7 @@ let options = {
     /* --------------------------------------------------------------- */
     traits: {
     
-        sheetPage: sheetPages.traits,
+        sheetPage: sheetPages.vaui,
 
         itemAmount: 24,
         itemOrder: "asc",
